@@ -52,6 +52,36 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Forms\conductors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\conductors.Designer.cs">
+      <DependentUpon>conductors.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\listtrains.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\listtrains.Designer.cs">
+      <DependentUpon>listtrains.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\routelist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\routelist.Designer.cs">
+      <DependentUpon>routelist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\trainmaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\trainmaster.Designer.cs">
+      <DependentUpon>trainmaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\trains.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\trains.Designer.cs">
+      <DependentUpon>trains.cs</DependentUpon>
+    </Compile>
     <Compile Include="MainWindow.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -98,6 +128,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="logo.ico" />
+    <None Include="Resources\exit.jpg" />
+    <None Include="Resources\logo.png" />
     <None Include="Resources\routelist.jpg" />
     <None Include="Resources\listtrains.jpg" />
     <None Include="Resources\trains.jpg" />
