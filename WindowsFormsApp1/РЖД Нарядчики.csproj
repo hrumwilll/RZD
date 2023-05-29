@@ -58,14 +58,18 @@
     <Compile Include="MainWindow.Designer.cs">
       <DependentUpon>MainWindow.cs</DependentUpon>
     </Compile>
-    <Compile Include="window boot.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="window boot.Designer.cs">
-      <DependentUpon>window boot.cs</DependentUpon>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ThemeColor.cs" />
+    <Compile Include="WindowBoot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WindowBoot.Designer.cs">
+      <DependentUpon>WindowBoot.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="MainWindow.resx">
+      <DependentUpon>MainWindow.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -76,6 +80,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="WindowBoot.resx">
+      <DependentUpon>WindowBoot.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -91,6 +98,13 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="logo.ico" />
+    <None Include="Resources\routelist.jpg" />
+    <None Include="Resources\listtrains.jpg" />
+    <None Include="Resources\trains.jpg" />
+    <None Include="Resources\conductors.jpg" />
+    <None Include="Resources\trainmaster.jpg" />
+    <None Include="Resources\trainmaster.png" />
+    <None Include="Resources\bootwindow.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
