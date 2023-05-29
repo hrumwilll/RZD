@@ -28,10 +28,18 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.SuspendLayout();
+            // 
+            // Проводники
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "conductors";
+            this.Name = "Проводники";
+            this.Text = "Проводники";
+            this.Load += new System.EventHandler(this.Проводники_Load);
+            this.ResumeLayout(false);
+
         }
 
         #endregion

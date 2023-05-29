@@ -16,5 +16,10 @@ namespace WindowsFormsApp1.Forms
         {
             InitializeComponent();
         }
+
+        private void Проводники_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

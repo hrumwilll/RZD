@@ -122,20 +122,7 @@ namespace WindowsFormsApp1
             OpenChildForm(new Forms.routelist(), sender);
         }
 
-        private void panelMenu_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void panelTitle_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
+       
         private void Reset()
         {
             DisableButton();
@@ -145,15 +132,26 @@ namespace WindowsFormsApp1
             currentButton = null;
             btnCloseChildForm.Visible = false;
         }
+      
+
+        private void btnCloseChildForm_Click(object sender, EventArgs e)
+        {
+            if (activeForm != null)
+                activeForm.Close();
+            Reset();
+        }
+
         private void panelTitleBar_MouseDown(object sender, MouseEventArgs e)
         {
             ReleaseCapture();
             SendMessage(this.Handle, 0x112, 0xf012, 0);
         }
+
         private void btnClose_Click(object sender, EventArgs e)
         {
             Application.Exit();
         }
+
         private void btnMaximize_Click(object sender, EventArgs e)
         {
             if (WindowState == FormWindowState.Normal)
@@ -161,12 +159,13 @@ namespace WindowsFormsApp1
             else
                 this.WindowState = FormWindowState.Normal;
         }
-        private void bntMinimize_Click(object sender, EventArgs e)
+
+        private void btnMinimize_Click(object sender, EventArgs e)
         {
             this.WindowState = FormWindowState.Minimized;
         }
 
-        private void panelDesktopPanel_Paint(object sender, PaintEventArgs e)
+        private void panelTitleBar_Paint(object sender, PaintEventArgs e)
         {
 
         }
