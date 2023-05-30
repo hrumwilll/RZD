@@ -149,7 +149,11 @@ namespace WindowsFormsApp1
 
         private void btnClose_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            if (MessageBox.Show("Вы действительно хотите выйти из программы?", "Выход", MessageBoxButtons.YesNo)==System.Windows.Forms.DialogResult.Yes)
+                {
+                Application.Exit();
+            }
+            
         }
 
         private void btnMaximize_Click(object sender, EventArgs e)
