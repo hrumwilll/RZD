@@ -1,0 +1,27 @@
+C:\Users\ssaou\source\repos\РЖД Нарядчики\РЖД Нарядчики\obj\Debug\РЖД Нарядчики.csproj.AssemblyReference.cache
+C:\Users\ssaou\source\repos\РЖД Нарядчики\РЖД Нарядчики\obj\Debug\РЖД Нарядчики.csproj.SuggestedBindingRedirects.cache
+C:\Users\ssaou\source\repos\РЖД Нарядчики\РЖД Нарядчики\obj\Debug\РЖД_Нарядчики.Properties.Resources.resources
+C:\Users\ssaou\source\repos\РЖД Нарядчики\РЖД Нарядчики\obj\Debug\РЖД Нарядчики.csproj.GenerateResource.cache
+C:\Users\ssaou\source\repos\РЖД Нарядчики\РЖД Нарядчики\obj\Debug\РЖД Нарядчики.csproj.CoreCompileInputs.cache
+C:\Users\ssaou\source\repos\РЖД Нарядчики\РЖД Нарядчики\obj\Debug\РЖД_Нарядчики.WindowBoot.resources
+C:\Users\ssaou\source\repos\РЖД Нарядчики\РЖД Нарядчики\obj\Debug\РЖД_Нарядчики.Login.resources
+C:\Users\ssaou\source\repos\РЖД Нарядчики\РЖД Нарядчики\bin\Debug\РЖД Нарядчики.exe.config
+C:\Users\ssaou\source\repos\РЖД Нарядчики\РЖД Нарядчики\bin\Debug\РЖД Нарядчики.exe
+C:\Users\ssaou\source\repos\РЖД Нарядчики\РЖД Нарядчики\bin\Debug\РЖД Нарядчики.pdb
+C:\Users\ssaou\source\repos\РЖД Нарядчики\РЖД Нарядчики\obj\Debug\РЖД Нарядчики.exe
+C:\Users\ssaou\source\repos\РЖД Нарядчики\РЖД Нарядчики\obj\Debug\РЖД Нарядчики.pdb
+C:\Users\ssaou\source\repos\РЖД Нарядчики\РЖД Нарядчики\bin\Debug\EntityFramework.dll
+C:\Users\ssaou\source\repos\РЖД Нарядчики\РЖД Нарядчики\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ssaou\source\repos\РЖД Нарядчики\РЖД Нарядчики\bin\Debug\EntityFramework.xml
+C:\Users\ssaou\source\repos\РЖД Нарядчики\РЖД Нарядчики\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ssaou\source\repos\РЖД Нарядчики\РЖД Нарядчики\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ssaou\source\repos\РЖД Нарядчики\РЖД Нарядчики\obj\Debug\РЖД Нарядчики.csproj.CopyComplete
+C:\Users\ssaou\source\repos\РЖД Нарядчики\РЖД Нарядчики\obj\Debug\РЖД_Нарядчики.MainWindow.resources
+C:\Users\ssaou\source\repos\РЖД Нарядчики\РЖД Нарядчики\bin\Debug\РЖД Нарядчики.exe.manifest
+C:\Users\ssaou\source\repos\РЖД Нарядчики\РЖД Нарядчики\bin\Debug\РЖД Нарядчики.application
+C:\Users\ssaou\source\repos\РЖД Нарядчики\РЖД Нарядчики\obj\Debug\РЖД Нарядчики.exe.manifest
+C:\Users\ssaou\source\repos\РЖД Нарядчики\РЖД Нарядчики\obj\Debug\РЖД Нарядчики.application
+C:\Users\ssaou\source\repos\РЖД Нарядчики\РЖД Нарядчики\obj\Debug\РЖД_Нарядчики.Froms.conductors.resources
+C:\Users\ssaou\source\repos\РЖД Нарядчики\РЖД Нарядчики\obj\Debug\РЖД_Нарядчики.Froms.ListTrains.resources
+C:\Users\ssaou\source\repos\РЖД Нарядчики\РЖД Нарядчики\obj\Debug\РЖД_Нарядчики.Froms.TrainMaster.resources
+C:\Users\ssaou\source\repos\РЖД Нарядчики\РЖД Нарядчики\obj\Debug\РЖД_Нарядчики.Froms.RouteList.resources
